@@ -3,7 +3,9 @@
 This is a Playground Project to translate Melate Historic csv information into SQL using MySQL and PostgreSQL
 
 # Sources
-[Historic Files](https://www.pronosticos.gob.mx/Paginas/Melate/historico-melate)
+[Melate Historic Files](https://www.pronosticos.gob.mx/Paginas/Melate/historico-melate)
+
+[Chispazo Historic Files](https://www.pronosticos.gob.mx/Paginas/Chispazo/historico-chispazo)
 
 # Table Definition
 ```sql
